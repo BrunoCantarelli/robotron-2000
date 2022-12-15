@@ -29,7 +29,7 @@ main {
     gap: 1vw;
 }
 
-.robotron {
+.robotron-class {
     background: url(../img/estrutura.png) no-repeat;
     background-position: center center;
     margin: 0;
